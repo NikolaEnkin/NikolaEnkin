@@ -1,11 +1,9 @@
 ## Hi there, I am Nikola 👋
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Man Technologist Medium-Light Skin Tone" width="25" height="25" /> About Me
-- 🎓 I am majoring in Computer and Software Engineering at Technical University Sofia - branch Plovdiv
-- 💻 Software University (SoftUni) student - Software Enginner with Python (6.00/6.00 GPA)
-- 📊 Finance Academy student (6.00/6.00 GPA)
-- 🤖 Passionate about developing skills in the AI field
-- ⚡ Fun fact: I love hiking
+-  I am majoring in Computer and Software Engineering at Technical University Sofia - branch Plovdiv
+-  Software University (SoftUni) student - Software Enginner with Python (6.00/6.00 GPA)
+-  Passionate about developing skills in the AI field
 
 ## Connect with me
 
